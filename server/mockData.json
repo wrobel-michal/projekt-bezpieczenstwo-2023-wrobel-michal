@@ -1,0 +1,15 @@
+[
+    {
+      "id": "regular-user",
+      "username": "regular-user",
+      "role": "user",
+      "data": "Some data for regular user"
+    },
+    {
+      "id": "admin-user",
+      "username": "admin-user",
+      "role": "admin",
+      "data": "Some data for admin user"
+    }
+  ]
+  
